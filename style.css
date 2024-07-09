@@ -8,9 +8,7 @@ body{
   
 }
 @media(max-width:1440px){
-  body{
-    overflow-x: hidden;
-  }
+ 
   .dark ul {
     margin-left: 130px;
   
@@ -105,9 +103,7 @@ body{
   }
 }
 @media(max-width:1024px){
-  body{
-    overflow-x: hidden;
-  }
+  
   .dark p{
     color:transparent;
     font-size: 40px ;
@@ -241,9 +237,7 @@ margin-left: 300px;
 
 }
 @media(max-width:768px){
-  body {
-    overflow-x: hidden;
-  }
+  
   .dark img {
     height: 40px;
     width: 40px;
@@ -412,9 +406,7 @@ margin-top: 450px;
 }
 }
 @media (max-width:375px){
-  body {
-    overflow-x: hidden;
-  }
+
   .dark p{
     color:transparent;
     font-size: 25px ;
